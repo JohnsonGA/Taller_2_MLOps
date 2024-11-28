@@ -1,4 +1,4 @@
-# Taller_2_MLOps
+![image](https://github.com/user-attachments/assets/94858d05-885f-4193-baec-2b38c98293db)# Taller_2_MLOps
 ## Integrantes:
 - Luz Angela Iriarte Zamora
 - Juan David Aristizabal Cifuentes
@@ -42,6 +42,7 @@ python3 service.py
 
 # Resultado de la prediccion usando EC2
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/98a4335c-c81f-4314-828c-2c7005c1ff43)
+
 
 Recordemos que para el problema tratado se clasifica como "0"o "1" la probabilidad de tener un ataque cardíaco.
